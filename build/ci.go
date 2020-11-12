@@ -57,8 +57,8 @@ import (
 	"strings"
 	"time"
 
+	"github.com/alvinlaw/go-ethereum/internal/build"
 	"github.com/cespare/cp"
-	"github.com/ethereum/go-ethereum/internal/build"
 	"github.com/ethereum/go-ethereum/params"
 )
 
