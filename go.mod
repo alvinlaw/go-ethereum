@@ -1,4 +1,4 @@
-module github.com/ethereum/go-ethereum
+module github.com/alvinlaw/go-ethereum
 
 go 1.13
 
@@ -70,3 +70,5 @@ require (
 	gopkg.in/urfave/cli.v1 v1.20.0
 	gotest.tools v2.2.0+incompatible
 )
+
+replace github.com/ethereum/go-ethereum => github.com/alvinlaw/go-ethereum v1.9.23
