@@ -20,9 +20,9 @@ import (
 	"context"
 	"encoding/json"
 
+	"github.com/alvinlaw/go-ethereum/internal/ethapi"
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/ethereum/go-ethereum/common/hexutil"
-	"github.com/ethereum/go-ethereum/internal/ethapi"
 	"github.com/ethereum/go-ethereum/log"
 )
 
