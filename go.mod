@@ -20,7 +20,7 @@ require (
 	github.com/dop251/goja v0.0.0-20200721192441-a695b0cdd498
 	github.com/dvyukov/go-fuzz v0.0.0-20200318091601-be3528f3a813 // indirect
 	github.com/edsrzf/mmap-go v0.0.0-20160512033002-935e0e8a636c
-	github.com/ethereum/go-ethereum v1.19.24
+	github.com/ethereum/go-ethereum v1.9.25-0.20201113124315-cf856ea1ad96
 	github.com/fatih/color v1.3.0
 	github.com/fjl/memsize v0.0.0-20180418122429-ca190fb6ffbc
 	github.com/gballet/go-libpcsclite v0.0.0-20190607065134-2772fd86a8ff
@@ -72,4 +72,4 @@ require (
 	gotest.tools v2.2.0+incompatible
 )
 
-replace github.com/ethereum/go-ethereum => github.com/alvinlaw/go-ethereum v1.9.24-0.20201112023419-05fc66494190
+replace github.com/ethereum/go-ethereum => github.com/alvinlaw/go-ethereum v1.9.25
